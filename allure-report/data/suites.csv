@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 05 11:00:06 BST 2024","Mon Aug 05 11:00:06 BST 2024","635","","Login page","","","","Incorrect Username Login",""
+"passed","Mon Aug 05 11:00:06 BST 2024","Mon Aug 05 11:00:07 BST 2024","736","","Login page","","","","Incorrect Password Login",""
+"passed","Mon Aug 05 11:00:05 BST 2024","Mon Aug 05 11:00:06 BST 2024","733","","Login page","","","","Blocked Login",""
+"passed","Mon Aug 05 11:00:04 BST 2024","Mon Aug 05 11:00:05 BST 2024","980","","Login page","","","","Success Login",""
